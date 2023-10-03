@@ -1,0 +1,15 @@
+h1 { font-size: 20px; }
+h2 { font-size: 15px; }
+
+
+.main-header {
+    border-bottom: 1px solid orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .main-header h1{
+        font-size: 20px;
+    }
+    .main-header h2

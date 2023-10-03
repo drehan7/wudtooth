@@ -1,0 +1,9 @@
+.main-devices-container {
+    /* border: 1px solid green; */
+    margin: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
